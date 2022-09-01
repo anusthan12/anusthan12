@@ -38,6 +38,8 @@
 [![anusthan12's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=anusthan12&&theme=xcode)](https://github.com/anusthan12)
 
 
+![Snake animation](https://github.com/anusthan12/anusthan12/blob/output/github-contribution-grid-snake.svg)
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anusthan12&show_icons=true&locale=en&layout=compact" alt="anusthan12" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anusthan12&show_icons=true&locale=en" alt="anusthan12" /></p>
