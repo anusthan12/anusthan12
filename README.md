@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Real time chat Application**
 
-- 🤝 I’m looking for help with **Project using Google API**
+- 🤝 I’m looking for help with **Spotify clone react js**
 
 - 👨‍💻 All of my projects are available at [https://anusthan12.github.io/Portfolio/](https://anusthan12.github.io/Portfolio/)
 
