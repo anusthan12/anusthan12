@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Aurora a real open AI chat application**
 
-- 🌱 I’m currently learning **React JS**
+- 🌱 I’m currently learning **React JS & Vanilla JS**
 
 - 👯 I’m looking to collaborate on **Real time chat Application**
 
