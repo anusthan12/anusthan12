@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anusthan12&label=Profile%20views&color=0e75b6&style=flat" alt="anusthan12" /> </p>
 
-- 🔭 I’m currently working on **Aurora a real open AI chat application**
+- 🔭 I’m currently working on **Aurora (Real open AI chat application)**
 
 - 🌱 I’m currently learning **React JS & Vanilla JS**
 
