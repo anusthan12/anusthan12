@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **Spotify clone react js**
 
-- 👨‍💻 Check out my project Aurora Open AI chat application are available at [https://aurora-one-murex.vercel.app/]
+- 👨‍💻 Check out my latest project Aurora Open AI chat application are available at [https://aurora-one-murex.vercel.app/]
 
 - 👨‍💻 All of my projects are available at [https://anusthan12.github.io/Portfolio/](https://anusthan12.github.io/Portfolio/)
 
