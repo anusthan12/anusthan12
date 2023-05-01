@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anusthan12&label=Profile%20views&color=0e75b6&style=flat" alt="anusthan12" /> </p>
 
-- 🔭 I’m currently working on **Spotify Web SDK**
+- 🔭 I’m currently working on **Emotify (New Gen emotion Based music player)**
 
 - 🌱 I’m currently learning **React JS & Vanilla JS**
 
