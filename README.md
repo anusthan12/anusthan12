@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Real time chat Application**
 
-- 🤝 I’m looking for help with **Spotify clone react js**
+- 🤝 I’m looking for help with **Microsoft Azure Open AI Key**
 
 - 👨‍💻 Check out my latest project Aurora Open AI chat application are available at [https://aurora-one-murex.vercel.app/]
 
