@@ -13,11 +13,11 @@
 
 - 🤝 I’m looking for help with **AI Based Saas Pass Software**
 
-- 👨‍💻 Check out my latest project Unseen AI are available at [https://unseen-ai.vercel.app/]
+- 👨‍💻 Check out my latest project Unseen AI are available at [Unseen AI](https://unseen-ai.vercel.app/)
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://anusthan-singh.vercel.app/)
 
-- 💬 Ask me about **HTML, CSS, JS, BOOTSTRAP, TAILWIND CSS, JAVASCRIPT, REACT JS(Tsx), Node Js(MVC) basics, C++, MySQL ,DBMS(Oracle), Python, AutoCAD, Ubuntu, Batch Script, Tickercad , Cisco packet tracer, Wireshark , GitHub, Azure Basics Firebase**
+- 💬 Ask me about **HTML, CSS, JS, BOOTSTRAP, TAILWIND CSS, JAVASCRIPT, REACT JS(Tsx), Node Js(MVC) basics, MySQL, Postman, Azure Basics, DBMS(Oracle),C++ ,Python, AutoCAD, Ubuntu, Batch Script, Tickercad , Cisco packet tracer, Wireshark , GitHub**
 
 - 📫 How to reach me **anusthan.singh12@gmail.com**
 
