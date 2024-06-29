@@ -7,21 +7,21 @@
 
 - 🔭 I’m currently working on **Personal Portfolio (Phase 2)**
 
-- 🌱 I’m currently learning **React JS & Vanilla JS**
+- 🌱 I’m currently learning **React Native**
 
-- 👯 I’m looking to collaborate on **Real time chat Application**
+- 👯 I’m looking to collaborate on **AI Based Saas Pass Software**
 
-- 🤝 I’m looking for help with **Spotify clone react js**
+- 🤝 I’m looking for help with **AI Based Saas Pass Software**
 
-- 👨‍💻 Check out my latest project Aurora Open AI chat application are available at [https://aurora-one-murex.vercel.app/]
+- 👨‍💻 Check out my latest project Unseen AI are available at [https://unseen-ai.vercel.app/]
 
-- 👨‍💻 All of my projects are available at [https://anusthan12.github.io/Portfolio/](https://anusthan12.github.io/Portfolio/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://anusthan-singh.vercel.app/)
 
-- 💬 Ask me about **HTML, CSS, JS, BOOTSTRAP, TAILWIND CSS, JAVASCRIPT, REACT, C, C++, DBMS(Oracle), Python, AutoCAD, Ubuntu, Batch Script, Batch file, Tickercad , Cisco packet tracer, Wireshark , GitHub, Firebase**
+- 💬 Ask me about **HTML, CSS, JS, BOOTSTRAP, TAILWIND CSS, JAVASCRIPT, REACT JS(Tsx), Node Js(MVC) basics, C++, MySQL ,DBMS(Oracle), Python, AutoCAD, Ubuntu, Batch Script, Tickercad , Cisco packet tracer, Wireshark , GitHub, Azure Basics Firebase**
 
 - 📫 How to reach me **anusthan.singh12@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1zLaJ2fFhpq0ITgxzmbLu96xu5Q1OCh-A/view?usp=drivesdk](https://drive.google.com/file/d/1zLaJ2fFhpq0ITgxzmbLu96xu5Q1OCh-A/view?usp=drivesdk)
+- 📄 Know about my experiences [https://anusthan-singh.vercel.app/](https://anusthan-singh.vercel.app/)
 
 - ⚡ Fun fact **I also make sticker and meme rather then developing**
 
