@@ -17,7 +17,7 @@
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://anusthan-singh.vercel.app/)
 
-- 💬 Ask me about **HTML, CSS, JS, BOOTSTRAP, TAILWIND CSS, JAVASCRIPT, REACT JS(Tsx), Node Js(MVC) basics, MySQL, Postman, Azure Basics, DBMS(Oracle),C++ ,Python, AutoCAD, Ubuntu, Batch Script, Tickercad , Cisco packet tracer, Wireshark , GitHub**
+- 💬 Ask me about **HTML, CSS, JS, BOOTSTRAP, TAILWIND CSS, JAVASCRIPT, REACT JS(Tsx), Node Js(MVC) basics, MySQL, Postman, Azure Basics, DBMS(Oracle), IoT, C++ ,Python, AutoCAD, Ubuntu, Batch Script, Tickercad , Cisco packet tracer, Wireshark , GitHub, Figma**
 
 - 📫 How to reach me **anusthan.singh12@gmail.com**
 
