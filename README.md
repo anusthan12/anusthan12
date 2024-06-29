@@ -5,17 +5,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anusthan12&label=Profile%20views&color=0e75b6&style=flat" alt="anusthan12" /> </p>
 
-- 🔭 I’m currently working on **Aurora 2.0**
+- 🔭 I’m currently working on **Personal Portfolio (Phase 2)**
 
-- 🌱 I’m currently learning **React JS & Vanilla JS**
+- 🌱 I’m currently learning **React JS Native**
 
-- 👯 I’m looking to collaborate on **Real time chat Application**
+- 👯 I’m looking to collaborate on **AI Sass and Pass software**
 
-- 🤝 I’m looking for help with **Spotify clone react js**
+- 🤝 I’m looking for help with **AI Sass and Pass software**
 
-- 👨‍💻 Check out my latest project Aurora Open AI chat application are available at [https://aurora-one-murex.vercel.app/]
+- 👨‍💻 Check out my latest project Useen AI are available at [https://unseen-ai.vercel.app/]
 
-- 👨‍💻 All of my projects are available at [https://anusthan12.github.io/Portfolio/](https://anusthan12.github.io/Portfolio/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://anusthan-singh.vercel.app/)
 
 - 💬 Ask me about **HTML, CSS, JS, BOOTSTRAP, TAILWIND CSS, JAVASCRIPT, REACT, C, C++, DBMS(Oracle), Python, AutoCAD, Ubuntu, Batch Script, Batch file, Tickercad , Cisco packet tracer, Wireshark , GitHub, Firebase**
 
