@@ -26,6 +26,12 @@
 
 - ⚡ Fun fact **I also make sticker and meme rather then developing**
 
+## 🏆 Achievements
+- **Innovation Patent (May 2023)** - IoT solution for water management (Patent #202331032194)
+- **IEEE Publication (2024)** - "Optimizing Resource Efficiency in Smart Greenhouses through IoT"
+  - Published in 5th International Conference for Emerging Technology (INCET)
+  - Co-authored with distinguished researchers
+    
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/anusthan12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="anusthan12" height="30" width="40" /></a>
